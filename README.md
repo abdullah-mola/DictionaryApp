@@ -16,7 +16,6 @@ A Dictionary using Kotlin Room database and Coroutines and MVP Architecture
 * Coroutine Lifecycle Scopes
 * Retrofit 
 * Glide
-* Material Design 
 * Room
 * Compose
 * Coroutine Lifecycle Scopes
